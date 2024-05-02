@@ -17,6 +17,7 @@ This branch of the original Shimeji project not only translates the program/sour
 - How to Install and Uninstall
 - Source
 - Library
+- API Docs
 - Trouble Shooting
 
 ## Homepage
@@ -232,7 +233,7 @@ I'm working on more advanced functions like:
 #### Interaction
 - Mouse Interaction
 - Collisions with each other
-## Referência
+## References
 
  - Original Shimeji artist from Murder Drones: [Polar Summit](https://twitter.com/PolarSummit)
  - Original Shimeji-ee Website: [kilkakon](https://kilkakon.com/shimeji/)
