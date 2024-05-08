@@ -142,7 +142,7 @@ _It does not require a body or params_
 ### Example
 #### GET Method
 ```http
-  GET http://localhost:2368/shimeji
+  GET http://localhost:8090/shimeji
 ```
 #### Example 1
 ```json
@@ -175,7 +175,7 @@ _The "mascotList" item is a general compilation of all shimejis active at the ti
 
 #### POST Method
 ```http
-  POST http://localhost:2368/shimeji
+  POST http://localhost:8090/shimeji
 ```
 #### Example 1
 Setting the "Chase Mouse" behaviour to all the shimejis:
